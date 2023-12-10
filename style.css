@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Montserrat:wght@500&display=swap');
+
+body{
+    margin: 0 0 0;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+header a{
+    color: white;
+    background-color: #9779DD;
+    text-decoration : none;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 1%;
+}
+nav{
+    display:flex;
+    justify-content: flex-end;
+}
+
+header{
+    background-color: #9771DD;
+}
+
+#logo{
+    position : absolute;
+    margin : 0.75% 2%;
+    font-size: 20px;
+}
+
+#JB{
+    position : absolute;
+    margin : 1.33% 5.5%;
+    font-size: 25px;
+}
+
+main{
+    display:flex;
+    color:#9771DD;
+    justify-content: space-around;
+    font-size: 40px;
+}
+
+#elbutono{
+    color: white;
+    background-color: #9779DD;
+    text-decoration : none;
+    padding: 10px 100px;
+    border-radius: 5px;
+    margin: 1%;
+    font-size: 50px;
+    position: absolute;
+    margin: -12% 12%;
+}
+
+#Union{
+    position:absolute;
+    top: 69%;
+    left: 14%;
+}
+
+p{
+    position: absolute;
+    color:#9779DD;
+    font-size: 40px;
+    top: 40%;
+    left: 4%;
+}
+
+footer{
+    background-color: #9771DD;
+
+}
